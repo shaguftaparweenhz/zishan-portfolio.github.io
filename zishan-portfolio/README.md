@@ -11,7 +11,7 @@ A modern, responsive portfolio website showcasing Zishan's skills, projects, and
 - Contact form with validation
 - Mobile-friendly navigation menu
 
-## Technologies Used
+## Technologies Used here
 
 - HTML5
 - CSS3 (with Flexbox and Grid)
