@@ -1,0 +1,23 @@
+{
+  "name": "zishan-portfolio",
+  "version": "1.0.0",
+  "description": "A modern portfolio website for Zishan",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --port=3000"
+  },
+  "keywords": [
+    "portfolio",
+    "website",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Zishan",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.2",
+    "serve": "^14.2.0"
+  }
+}
