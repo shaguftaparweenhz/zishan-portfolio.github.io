@@ -64,3 +64,14 @@ To deploy this portfolio:
 ## License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Resources
+* Optimization4All Core Team: https://optimization4all.com/about
+* Optimization4All AI video: https://www.youtube.com/watch?v=_-6DKUQths8
+
+* IEEE'26 Smart Mobility Co-Chair: https://ieeesm.org/barrier-free-accessible-mobility/
+
+* External Research Collaborator Smart Mobility Lab, King Fahad University: https://ai4sm.org/team.html
+
+
+
